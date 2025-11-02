@@ -4,7 +4,7 @@ Instagram A İ O is a Python script that allows you to perform bulk operations o
 
 ## Features
 
--Fetch Reels Links (Bulk):
+-*Fetch Reels Links (Bulk):
 Extract Reels links from multiple Instagram profiles and save them to text files. Supports retries and error handling.
 
 -Scrape Profile Data (Bulk):
