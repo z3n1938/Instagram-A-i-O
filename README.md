@@ -4,25 +4,25 @@ Instagram A İ O is a Python script that allows you to perform bulk operations o
 
 ## Features
 
-- ** Fetch Reels Links (Bulk):
+-Fetch Reels Links (Bulk):
 Extract Reels links from multiple Instagram profiles and save them to text files. Supports retries and error handling.
 
-- ** Scrape Profile Data (Bulk):
+-Scrape Profile Data (Bulk):
 Collect detailed profile information (username, full name, biography, followers, following, post count, profile picture URL, verification status) for multiple Instagram accounts and save it to text files.
 
-- ** Download Videos from Links (Bulk):
+-Download Videos from Links (Bulk):
 Download videos from a list of Instagram post URLs with logs for each download.
 
-- ** Download Profile Pictures (Bulk):
+-Download Profile Pictures (Bulk):
 Download profile pictures for multiple Instagram profiles.
 
-- ** Optional Login Support:
+-Optional Login Support:
 Log in to Instagram to access private profiles and improve reliability when fetching data.
 
-- **Retry Mechanism:
+-Retry Mechanism:
 Automatically retries failed requests to reduce errors caused by temporary network or Instagram restrictions.
 
-- **Colored Terminal Output:
+-Colored Terminal Output:
 Uses colorama and ANSI codes for a visually appealing menu and status messages.
 
 ## Requirements
